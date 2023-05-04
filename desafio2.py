@@ -18,4 +18,4 @@ if (txt.isalpha()):
 elif(txt.isdigit()):
     print("Es numero")
 else:
-    print("caracter especial")
+    print("caracter especial") 
