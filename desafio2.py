@@ -8,7 +8,7 @@ txt = input("Ingresa un caracter ")
 #print("Es mayuscula", esMayuscula)
 #print("Es numero", esNumero)
 #print("Es letra", esLetra)
-
+# ctrl + }
 
 if (txt.isalpha()):
     if(txt.islower()):
